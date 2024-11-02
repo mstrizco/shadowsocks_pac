@@ -1,6 +1,6 @@
 ﻿var __USERRULES__ = [
-  "||instagram.com^",
-  "||cdninstagram.com^",
+  "*.instagram.com",
+  "*.cdninstagram.com",
   "||facebook.com^",
   "||fbcdn.net^",
   "||spotify.com^",
