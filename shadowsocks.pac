@@ -22,6 +22,8 @@
   "||radiofrance.fr^"
 ];
 var __RULES__ = [
+  "*.instagram.com",
+  "*.cdninstagram.com",
   "@@||lan",
   "@@||localdomain",
   "@@||example",
