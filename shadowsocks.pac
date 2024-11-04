@@ -22,7 +22,9 @@ var __BLOCKEDSITES__ = [
   "*.radiofrance.fr",
   "*.figma.com",
   "*.whatwg.org",
-  "*.statsigapi.net"
+  "*.statsigapi.net",
+  "*.crbug.com"
+
 ];
 
 var proxy;
