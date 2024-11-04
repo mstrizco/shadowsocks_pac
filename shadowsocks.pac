@@ -21,7 +21,8 @@ var __BLOCKEDSITES__ = [
   "*.ytimg.com",
   "*.radiofrance.fr",
   "*.figma.com",
-  "*.whatwg.org"
+  "*.whatwg.org",
+  "*.statsigapi.net"
 ];
 
 var proxy;
