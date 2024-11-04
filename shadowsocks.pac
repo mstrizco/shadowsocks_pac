@@ -20,7 +20,8 @@ var __BLOCKEDSITES__ = [
   "*.google.com",
   "*.ytimg.com",
   "*.radiofrance.fr",
-  "*.figma.com"
+  "*.figma.com",
+  "*.whatwg.org"
 ];
 
 var proxy;
