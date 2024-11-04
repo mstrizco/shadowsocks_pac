@@ -19,7 +19,8 @@ var __BLOCKEDSITES__ = [
   "*.gstatic.com",
   "*.google.com",
   "*.ytimg.com",
-  "*.radiofrance.fr"
+  "*.radiofrance.fr",
+  "*.figma.com"
 ];
 
 var proxy;
