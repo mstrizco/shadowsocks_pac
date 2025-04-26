@@ -16,6 +16,7 @@ var __BLOCKEDSITES__ = [
   "*.gitlab.com",
   "*.googlevideo.com",
   "*.youtube.com",
+  "*.youtu.be",
   "*.gstatic.com",
   "*.google.com",
   "*.ytimg.com",
