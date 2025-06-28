@@ -26,7 +26,8 @@ var __BLOCKEDSITES__ = [
   "*.statsigapi.net",
   "*.crbug.com",
   "*.audiobot.pro",
-  "*.adfinity.pro"
+  "*.adfinity.pro",
+  "*.speraspace.com"
 ];
 
 var proxy;
