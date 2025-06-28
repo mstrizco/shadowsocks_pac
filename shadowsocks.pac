@@ -24,8 +24,8 @@ var __BLOCKEDSITES__ = [
   "*.figma.com",
   "*.whatwg.org",
   "*.statsigapi.net",
-  "*.crbug.com"
-
+  "*.crbug.com",
+  "*.audiobot.pro"
 ];
 
 var proxy;
