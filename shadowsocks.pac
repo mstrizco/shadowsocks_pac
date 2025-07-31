@@ -27,7 +27,8 @@ var __BLOCKEDSITES__ = [
   "*.crbug.com",
   "*.audiobot.pro",
   "*.adfinity.pro",
-  "*.speraspace.com"
+  "*.speraspace.com",
+  "*.userapi.com"
 ];
 
 var proxy;
