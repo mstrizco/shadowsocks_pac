@@ -25,7 +25,6 @@ var __BLOCKEDSITES__ = [
   "*.whatwg.org",
   "*.statsigapi.net",
   "*.crbug.com",
-  "*.audiobot.pro",
   "*.speraspace.com"
 ];
 
