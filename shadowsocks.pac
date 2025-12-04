@@ -26,7 +26,8 @@ var __BLOCKEDSITES__ = [
   "*.statsigapi.net",
   "*.crbug.com",
   "*.speraspace.com",
-  "*.chatgpt.com"
+  "*.chatgpt.com",
+  "chatgpt.com"
 ];
 
 var proxy;
@@ -68,4 +69,5 @@ var FindProxyForURL = function(init, profiles) {
         return proxy;
     }
 });
+
 
